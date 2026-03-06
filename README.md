@@ -1,15 +1,19 @@
 # LLM de Geração de NPCs - Dataset
 
-![Python](https://img.shields.io/badge/Python-3.17-green?logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3.10+-gre?logo=python&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-Versionamento-yellow?logo=git&logoColor=white)
 ![Json](https://img.shields.io/badge/Json-Armazenamento-blue?logo=json&logoColor=white)
+![License](https://img.shields.io/badge/License-CC_By--Sa-red?logo=creativecommons&logoColor=white)
 
 
-Repositório criado para **registrar o processo de construção** e **armazenar um dataset de treino para uma LLM** que tem como objetivo a geração de **NPCS para campanhas de RPG de mesa**.
+
+Repositório criado para **registrar o processo de construção** e **armazenar um dataset de treino para uma LLM** que tem como objetivo a geração procedural de **NPCS para campanhas de RPG de mesa**.
 
 ***
 
 ## ⚙️ Criação e Origem dos dados
+
+Os **dados naturais** serão obtidos prontos de domínios abertos da internet.
 
 Os **dados sintéticos** serão gerados por LLMs disponibilizadas na internet, por meio de APIs. A fim de evitar uma homogeinização dos dados, serão utilizados modelos e temperaturas diferentes, além de alguns critérios de base para direcionar a criação, como:
  
@@ -74,6 +78,7 @@ As **figuras inspiradoras** serão armazenadas como arquivos Json em */data/Figu
 Os **dados de origem humana** serão armazenados como arquivos Json em */data/Dados Naturais*.
 
 Os **dados gerado por LLMs** serão armazenados como arquivos Json em */data/Dados Sintéticos*, sendo cada um dos NPCs um objeto com a seguinte estrutura:
+
 ```
 {
     "input":{
@@ -90,11 +95,11 @@ Os **dados gerado por LLMs** serão armazenados como arquivos Json em */data/Dad
 ```
 
 ## 🛠️ Ferramentas Utilizadas 
-- **[Python]()** — principal linguagem de programação utilizada. 
+- **[Python](https://www.python.org/)** — principal linguagem de programação utilizada. 
 - **[Git](https://git-scm.com/)** — versionamento e controle do código.  
-- **[Json]()** — formato de texto utilizado para armazenar os dados. 
+- **[Json](https://www.json.org/)** — formato de texto utilizado para armazenar os dados. 
 
 ***
 ### 📝 Licença
 
-Este repositório está sob a licença **CC By-Sa**. Sinta-se a vontade para utilizá-lo, desde que **dê os devidos créditos** e **mantenha essa mesma licença**.
+Este repositório está sob a licença **[Attribution-ShareAlike 4.0 International](https://creativecommons.org/licenses/by-sa/4.0/) (CC By-Sa)**. Sinta-se a vontade para utilizá-lo, desde que **dê os devidos créditos** e **mantenha essa mesma licença**.
