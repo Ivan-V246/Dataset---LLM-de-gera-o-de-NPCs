@@ -1,0 +1,762 @@
+[
+    {
+        "nome": "Alberich",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Alfrodul",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Alsvid",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Alvis",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Andavari",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Angrboda",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Arvak",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Ask",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Audumbla",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Aun",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Auðr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Auðumbla",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Balder",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Baugi",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Beovulfo",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Bergelmer",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Bestla",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Biorno no Montículo",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Bloðughofi",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Bolthorn",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Borgilda",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Borr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Bragi",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Brunilda",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Buro",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Bödvar Bjarki",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Crimilda",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Dagr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Dellingr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Domalde",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Dvalin",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Egil",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Eikþyrnir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Eir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Embla",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Esvanilda",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Fenrir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Fenris",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Fenrisulfr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Forsetes",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Forseti",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Freia",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Freir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Frey",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Freyja",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Frigg",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Frigga",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Fulla",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Garm",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Gefjun",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Geirröd",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Gerda",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Gilling",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Gleipnir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Glen",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Grani",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Grimilda",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Gríðr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Gullveig",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Gunnlod",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Gymir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Habardo",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Haroldo Dente de Guerra",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hati",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Heimdall",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Heiðrun",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Heiðrún",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hel",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hela",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hermodr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hjordis",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hlín",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hoder",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hoenir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hrod",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hrungnir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hræsvelgr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hrímfaxi",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hugin",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hugin e Munin",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hymir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hyrrokkin",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hörgr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Hœnir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Iduna",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Ilmr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Ivaldi",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Ivar Braço Longo",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Iðunn",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Jormungand",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Jormungard",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Jotum",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Jotun",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Járnsaxa",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Jörmundgander",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Jörmungandr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Jörð",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Kari",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Kvasir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Laufey",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Lindorm",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Lofn",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Loki",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Lóqui",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Lóðurr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Magni e Modi",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Meili",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Modi e Magni",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Mundilfari",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Munin",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Mánagarmr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Máni",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Mårten Eskil Winge",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Mímir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Nanna",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Narve",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Niordo",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Njord",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Njörun",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Níðhöggr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Oddrun",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Odim",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Odin",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Olavo I da Noruega",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Olavo II da Noruega",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Olavo Magno",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Olavo, o Desbravador",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Olvaldi",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Ragnar Lodbrok",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Ratatosk",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Regin",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Rind",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Rán",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Saxa",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Siegfried",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Sif",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Signy",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Sigrun",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Sigurdo",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Sigurdo, o Anel",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Sigyn",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Sjöfn",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Skade",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Skadi",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Skinfaxi",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Skoll",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Skuld",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Skögul",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Sleipnir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Snotra",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Surtur",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Suttung",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Svadilfari",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Svalin",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Svartálfar",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Svava",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Syn",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Sól",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Tanngnjóstr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Tanngrisnir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Thor",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Thrym",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Tiazi",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Tir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Tor",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Trudelmer",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Tyr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Týr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Uller",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Urd",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Urdar",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Utgardaloke",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Vaftrudener",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Vali",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Verdandi",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Verdante",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Veðrfölnir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Vidar",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Vili",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Vár",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Vé",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Völund",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Vör",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Wayland the Smith",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Weyland",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Ymir",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Ímer",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Óðr",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Þorgerðr Hölgabrúðr e Irpa",
+        "mitologia": "Nórdica"
+    },
+    {
+        "nome": "Þrúðr",
+        "mitologia": "Nórdica"
+    }
+]

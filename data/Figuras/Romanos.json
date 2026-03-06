@@ -1,0 +1,542 @@
+[
+    {
+        "nome": "Abeona",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Ana Perena",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Atlas",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Augusto",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Baco",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Belona",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Carmenta",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Cartago",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Cassiodoro",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Castor e Pólux",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Castro",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Catulo",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Celo",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Ceres",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Cibele",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Cicero",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Concórdia",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Cornélio Nepos",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Cupido",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "César",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Diana",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Dião Cássio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Diógenes Laércio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Egéria",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Eneias",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Eneida",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Esmirna",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Fortuna",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Fântaso",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Fócio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Gaia",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Hermes",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Hersília",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Hidácio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Hipnos",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Horácio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Hércules",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Irmãos arvais",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Jano",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Jerônimo",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Jordânia",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "João Zonaras",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Juliano",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Juno",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Júpiter",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Leto",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Lex Hortensia",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Lucano",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Luciano de Samósata",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Lucrécio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Lugduno",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Lívio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Lúlio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Maia",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Marco Aurélio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Marco Juniano Justino",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Marco Terêncio Varrão",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Marco Veleio Patérculo",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Marco Vérrio Flaco",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Marcus Cornelius Fronto",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Marcus Manilius",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Marte",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Mediolano",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Mercúrio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Milão",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Minerva",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Mário Sérvio Honorato",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Míser",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Múrcia",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Neptuno",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Netuno",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Nicolau de Damasco",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Numa Pompílio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Nume",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Orósio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Ovídio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Paris",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Petrônio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Plauto",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Plutão",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Plínio, o Jovem",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Plínio, o Velho",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Polieno",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Políbio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Pomona",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Pompéia",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Pompônio Mela",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Pomério",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Porfírio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Prisciano",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Prisco de Pânio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Proserpina",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Pã",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Quirino",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Ravena",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Reia Sílvia",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Reino de Roma",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Rómulo",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Salo",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Saturno",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Saudação romana",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Sidônio Apolinário",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Signífero",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Silvano",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Somno",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Sozomeno",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Suetônio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Sálio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Sérvio Túlio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Sêneca, o Jovem",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Sêneca, o Velho",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Símaco",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Sírmio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Tarquínio Prisco",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Tarquínio, o Soberbo",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Telo",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Telumo",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Temístio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Teodoreto",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Termas romanas",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Tertuliano",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Terêncio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Término",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Ulpiano",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Urano",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Vertumno",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Vesta",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Virgílio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Vitrúvio",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Vulcano",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Vénus",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Zósimo",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Élio Donato",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Éris",
+        "mitologia": "Romana"
+    },
+    {
+        "nome": "Ísis",
+        "mitologia": "Romana"
+    }
+]

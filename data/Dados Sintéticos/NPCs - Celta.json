@@ -1,0 +1,290 @@
+[
+    {
+        "input": {
+            "Figura Inspiradora": "Aengus",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Terror e Investigação",
+            "Arquétipo": "aliado temporário"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Terror e Investigação, inspirado na figura Aengus, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de aliado temporário.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Aengor Brannoc  \nDescrição Física: Jovem de pele pálida, cabelos longos cor de prata, olhos que mudam de verde para cinza ao entardecer.  \nTraço de personalidade: Enigmático e gentil, fala em versos e tem uma curiosidade insaciável sobre o mundo dos mortais.  \nClasse Social: Nobre de linhagem feérica, porém exilado entre os humanos.  \nObjetivo: Recuperar um artefato perdido que pode selar a fenda entre o Mundo dos Vivos e o Outro‑Mundo.  \nMedo ou Fraqueza: Temor profundo de ser aprisionado em sombras eternas, e vulnerável à prata consagrada.  \nTraço Físico Marcante: Um selo luminescente em forma de trevo no pulso esquerdo que pulsa quando magia está presente.  \nConflito Atual: Está sendo caçado por caçadores de fadas que querem usar seu conhecimento para abrir portais.  \nPrincipais Relações: Antiga aliada, a druidisa Eira; um rival, o caçador Gwalch; e o grupo de investigadores que o ajuda agora.  \nFrase atribuída: \"Nas brumas dos sonhos, a verdade se revela; siga‑me, mas não confie nos próprios passos.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Aine de Knockaine",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Fantasia Medieval",
+            "Arquétipo": "anti-herói"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Fantasia Medieval, inspirado na figura Aine de Knockaine, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de anti-herói.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Eira Nightbloom  \nDescrição Física: Alta e esguia, pele pálida como névoa, cabelos longos e ondulados em tons de cobre, olhos verdes brilhantes.  \nTraço de personalidade: Cínica e sarcástica, mas guarda um código de honra oculto que guia suas ações.  \nClasse Social: Nobre caída, ex‑herdeira de um antigo clã de druidas.  \nObjetivo: Recuperar o artefato sagrado de sua família para impedir que caia nas mãos de um tirano.  \nMedo ou Fraqueza: O som de água corrente, que lhe traz lembranças de um passado que prefere esquecer.  \nTraço Físico Marcante: Uma tatuagem em forma de espiral celta que brilha levemente quando usa magia.  \nConflito Atual: Está em guerra contra um senhor da guerra que controla a floresta de Knockaine, mas também precisa negociar com ladrões que a traíram.  \nPrincipais Relações: Seu irmão desaparecido, a guardiã da floresta, e um mercenário ambíguo que lhe deve favores.  \nFrase atribuída: “O bem e o mal são apenas sombras projetadas por quem ousa acender a chama.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Arianrhod",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Velho Oeste",
+            "Arquétipo": "mentor"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Velho Oeste, inspirado na figura Arianrhod, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de mentor.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Silas Corvo de Lúmen  \nDescrição Física: Alto, chapéu de abas largas, olhos cinzentos como neblina; cicatriz em forma de lua crescente no pescoço.  \nTraço de personalidade: Sábio e enigmático, costuma falar em parábolas que revelam verdades ocultas.  \nClasse Social: Ex-senhor de terras, agora dono de um rancho isolado na fronteira.  \nObjetivo: Proteger a região da expansão desenfreada, guiando jovens pistoleiros rumo à honra.  \nMedo ou Fraqueza: Tem medo de perder a memória, pois acredita que sua alma está ligada a um amuleto que está desaparecendo.  \nTraço Físico Marcante: Cicatriz em forma de lua crescente que brilha levemente sob a luz da lua.  \nConflito Atual: Disputa com o barão ferroviário Macklyn, que pretende construir trilhos em terras sagradas.  \nPrincipais Relações: Aprendiz Eli, irmã desaparecida Maeve, rival Macklyn, e o velho xerife Ortega.  \nFrase atribuída: \"O caminho da lua não se revela a quem tem medo da noite.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Belenus",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Terror e Investigação",
+            "Arquétipo": "anti-herói"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Terror e Investigação, inspirado na figura Belenus, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de anti-herói.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Aedan Ógriath  \nDescrição Física: Alto, cabelos ruivos como chamas, olhos dourados que brilham à noite.  \nTraço de personalidade: Cínico e sarcástico, mas guiado por um senso de justiça retorcida.  \nClasse Social: Nobre decadente, herdeiro de terras abandonadas.  \nObjetivo: Recuperar o antigo altar solar para restaurar seu poder e vingança.  \nMedo ou Fraqueza: A sombra da morte eterna que pode apagar sua luz interior.  \nTraço Físico Marcante: Uma cicatriz em forma de sol que brilha sob a lua.  \nConflito Atual: Confrontado por um culto que deseja usar seu próprio sangue para invocar horrores.  \nPrincipais Relações: Irmã exilada, Selene, e o sacerdote corrompido, Mael.  \nFrase atribuída: “A luz não nasce sem que a escuridão se queime.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Brigid",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Terror e Investigação",
+            "Arquétipo": "figura trágica"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Terror e Investigação, inspirado na figura Brigid, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de figura trágica.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Aelwen O'Fionn  \nDescrição Física: Jovem de cabelos ruivos flamejantes, pele pálida como pedra de musgo, olhos cinzentos que parecem brilhar à luz de velas.  \nTraço de personalidade: Compassiva e dedicada, mas carregada de culpa que a torna melancólica e introspectiva.  \nClasse Social: Nobre caída – filha de um senhor feudal que perdeu suas terras por uma maldição.  \nObjetivo: Restaurar o santuário antigo de Brigid para curar a praga que assola sua aldeia.  \nMedo ou Fraqueça: Temor profundo de fogo descontrolado, lembrança de um incêndio que destruiu sua família.  \nTraço Físico Marcante: Uma cicatriz em forma de chama que percorre seu braço direito, deixada por um sacrifício mal sucedido.  \nConflito Atual: Confronta um culto obscuro que quer usar seu sangue para invocar a deusa em sua forma vingativa.  \nPrincipais Relações: Seu irmão desaparecido, agora líder do culto; a curandeira da aldeia, sua única confidente; o sacerdote corrompido que a persegue.  \nFrase atribuída: “A luz que queima também pode revelar a verdade que se esconde nas sombras.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Cernuno",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Velho Oeste",
+            "Arquétipo": "mentor"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Velho Oeste, inspirado na figura Cernuno, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de mentor.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Silas Corvo de Lobo  \nDescrição Física: Alto, pele queimada pelo sol, cabelos longos e grisalhos com tranças, usa um chapéu de aba larga e botas de couro gastas.  \nTraço de personalidade: Sábio e enigmático, fala em provérbios e observa antes de agir.  \nClasse Social: Ex-membro da elite dos fazendeiros, agora errante e respeitado como conselheiro.  \nObjetivo: Unir as tribos locais contra a crescente ganância dos barões das ferrovias.  \nMedo ou Fraqueza: Temido por sua própria ligação ao \"caminho dos cervos\", teme perder a conexão espiritual com a natureza.  \nTraço Físico Marcante: Dois chifres de marfim entalhados na testa, lembrando o deus Cernuno.  \nConflito Atual: Está sendo caçado por um xerife corrupto que o culpa pelos recentes ataques de bandidos.  \nPrincipais Relações: Mentor de jovens pistoleiros, aliado de um xamã da tribo, inimigo do Xerife McAllister.  \nFrase atribuída: \"Assim como o cervo corre livre, o espírito só se salva quando se deixa a trilha da cobiça.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Chuchulain",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "SteamPunk",
+            "Arquétipo": "aliado temporário"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero SteamPunk, inspirado na figura Chuchulain, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de aliado temporário.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Cormac Ironhart  \nDescrição Física: Altura imponente, cabelos ruivos trançados com fios de cobre, veste um colete de couro reforçado por placas a vapor.  \nTraço de personalidade: Honrado e leal, porém impetuoso ao defender o que considera justo.  \nClasse Social: Nobre guerreiro de uma casa militarista, porém exilado por desafiar a coroa.  \nObjetivo: Recuperar a relíquia ancestral de sua família, perdida nas catacumbas de vapor da Cidade de Névoa.  \nMedo ou Fraqueza: Temor de perder o controle de sua própria força, que pode ser manipulada por dispositivos de energia.  \nTraço Físico Marcante: Um braço cibernético de latão gravado com runas celtas que emite vapor ao ser acionado.  \nConflito Atual: Persegue um grupo de mercenários que roubou o mapa para a relíquia, enquanto o governo o caça por traição.  \nPrincipais Relações: Seu antigo mentor, o engenheiro Gwydion; a irmã desaparecida, Brigid; e um capitão de dirigível rival, Selma Voss.  \nFrase atribuída: “O aço pode dobrar, mas o espírito celta jamais será forjado.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Dagda",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "SteamPunk",
+            "Arquétipo": "aliado temporário"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero SteamPunk, inspirado na figura Dagda, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de aliado temporário.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Eadric Gearhart  \nDescrição Física: Homem corpulento, barba trançada com fios de cobre, olhos azul-cobre que brilham levemente.  \nTraço de personalidade: Generoso e jovial, mas impetuoso ao proteger seus companheiros.  \nClasse Social: Nobre mercador de artefatos arcanotécnicos, proprietário de um império de vapor.  \nObjetivo: Recuperar o Coração de Glaith, um motor ancestral que pode alimentar toda a cidade.  \nMedo ou Fraqueza: Temor de perder o controle dos seus próprios experimentos explosivos.  \nTraço Físico Marcante: Um grande machado de ferro forjado, embutido com runas celtas que cintilam.  \nConflito Atual: Em disputa com a Guilda das Sombras por controle da fonte de energia da cidade.  \nPrincipais Relações: Aliança frágil com a engenheira Lira Voss; rivalidade com o barão Mordren Blacksteam.  \nFrase atribuída: “Um brinde ao fogo que nos move – e ao vapor que nos sustenta!”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Danu",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "SteamPunk",
+            "Arquétipo": "antagonista"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero SteamPunk, inspirado na figura Danu, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de antagonista.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Maelis Gearhart  \nDescrição Física: Alta, cabelos de cobre trançados com fios de vapor, olhos verde‑azulados brilhantes, veste traje de couro reforçado com pistões.  \nTraço de personalidade: Manipuladora e visionária, vê a tecnologia como extensão da natureza.  \nClasse Social: Nobre industrial, controla a Guilda dos Engenheiros de Éter.  \nObjetivo: Conquistar os antigos santuários celtas para fundir magia e maquinaria, dominando o fluxo de energia.  \nMedo ou Fraqueza: Tem profundo medo de perder o controle da própria essência vital ao fundir‑se com o vapor.  \nTraço Físico Marcante: Uma tatuagem luminosa de um carvalho mecânico que pulsa quando usa magia.  \nConflito Atual: Está cercada por rebeldes que querem destruir o Projeto de Fusão, enquanto a Rainha das Brumas ameaça revelar sua origem.  \nPrincipais Relações: Aliança tensa com o Barão Ferrovia, rivalidade com a druida Selia Thorn; serva leal, o autômato Corvo de Chumbo.  \nFrase atribuída: \"O futuro nasce das raízes do passado, e eu sou quem as faz germinar em aço.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Dea Matrona",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Distopia Futurista",
+            "Arquétipo": "figura trágica"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Distopia Futurista, inspirado na figura Dea Matrona, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de figura trágica.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Aine Morcant  \nDescrição Física: Alta, pele pálida com veias luminescentes; cabelos longos prateados entrelaçados com fios de neon.  \nTraço de personalidade: Fria e calculista, mas carregada de culpa por escolhas que sacrificaram milhões.  \nClasse Social: Alta casta tecnológica, líder da corporação de bioengenharia “Gaia Synth”.  \nObjetivo: Restaurar o equilíbrio natural, revertendo a manipulação genética que devastou o planeta.  \nMedo ou Fraqueza: Perder a própria humanidade e se tornar um monstro de silício.  \nTraço Físico Marcante: Um terceiro olho cibernético que brilha ao detectar mentiras.  \nConflito Atual: Rebeliões subterrâneas exigem sua execução enquanto luta contra seu próprio projeto de “Renascimento”.  \nPrincipais Relações: Ex‑mentor Dr. Cael, irmã menor Lirien (líder da resistência) e o Conselho de Órbitas.  \nFrase atribuída: \"A terra clama, mas eu sou a voz que ainda pode ouvi‑la.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Epona",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "SteamPunk",
+            "Arquétipo": "antagonista"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero SteamPunk, inspirado na figura Epona, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de antagonista.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Rían Valtor  \nDescrição Física: Alto, com armadura de cobre e bronze, olhos de cristal de âmbar; braço direito substituído por um canhão de engrenagens.  \nTraço de personalidade: Calculista e implacável, mas possui um carisma frio que atrai seguidores.  \nClasse Social: Nobre industrial, proprietário das maiores fábricas de bestas mecânicas.  \nObjetivo: Dominar o comércio de energia a vapor e transformar todas as rotas em seu domínio.  \nMedo ou Fraqueza: Tem pavor de perder sua ligação com a natureza; vulnerável a magia terrestre.  \nTraço Físico Marcante: Crânio de bronze moldado como cabeça de cavalo, cravado no peito, cintilando com vapor.  \nConflito Atual: Em guerra aberta com a Guilda dos Engenheiros Livres pelo controle das locomotivas a vapor.  \nPrincipais Relações: Aliança com o Barão de Ferro; rivalidade mortal com a líder da guilda, Lira Voss; ex-amante da inventora Selene Cogwright.  \nFrase atribuída: “O vapor que alimenta meu coração não conhece piedade.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Fand",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Terror e Investigação",
+            "Arquétipo": "antagonista"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Terror e Investigação, inspirado na figura Fand, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de antagonista.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Aedan mac Brannoc  \nDescrição Física: Alto, pele pálida como pedra, cabelos negros longos presos em trança.  \nTraço de personalidade: Calculista, implacável, fascinado por segredos proibidos.  \nClasse Social: Nobre decadente, descendente de druidas caídos.  \nObjetivo: Recuperar o Coração de Lugh para abrir um portal ao outro mundo.  \nMedo ou Fraqueza: Luz do amanhecer, que dissolve sua sombra.  \nTraço Físico Marcante: Uma cicatriz em forma de nó celta que brilha em azul escuro.  \nConflito Atual: Disputa com um culto rival pelo artefato nas ruínas de Dún.  \nPrincipais Relações: Seu servo espectral, a sacerdotisa exilada, o investigador da aldeia.  \nFrase atribuída: \"Sombras são a única verdade que o mundo aceita.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Goibniu",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Ópera Espacial",
+            "Arquétipo": "anti-herói"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Ópera Espacial, inspirado na figura Goibniu, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de anti-herói.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Talor Varric  \nDescrição Física: Ciber‑forjador alto, pele de metal escuro reluzente, olhos de plasma azul.  \nTraço de personalidade: Cínico e sarcástico, mas segue um rígido código de honra pessoal.  \nClasse Social: Mercador de artefatos proibidos nas fronteiras da República Estelar.  \nObjetivo: Reconquistar a Forja Ancestral de Orión, capaz de moldar a própria realidade.  \nMedo ou Fraqueza: Perder a memória de seu passado forjado; vulnerável a campos anti‑magnéticos.  \nTraço Físico Marcante: Braço direito substituído por um manipulador de plasma gravado com runas celtas.  \nConflito Atual: Perseguido por corporações que desejam a forja, enquanto rebeldes o pressionam a usá‑la contra o regime.  \nPrincipais Relações: Aliança tensa com a piloto Kaela Rift, rivalidade com o magnata Draxen, mentor desaparecido Lyra.  \nFrase atribuída: “Forjar o futuro não é escolher o que é certo, mas decidir o que vale a pena queimar.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Ianellus",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Fantasia Medieval",
+            "Arquétipo": "anti-herói"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Fantasia Medieval, inspirado na figura Ianellus, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de anti-herói.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Caelán Ó Daire  \nDescrição Física: Alto, cabelos negros como ébano, olhos cor de pedra; veste peles de lobo.  \nTraço de personalidade: Cínico, mas segue um código de honra próprio.  \nClasse Social: Nobre decadente, ex-senhor feudal.  \nObjetivo: Recuperar o artefato da Luz Sombria para vingar sua família.  \nMedo ou Fraqueza: Temor ao abandono dos deuses antigos.  \nTraço Físico Marcante: Uma cicatriz em forma de triscelte atravessando o rosto.  \nConflito Atual: Persegue o Conselho dos Druidas que quer destruir o artefato.  \nPrincipais Relações: Seu antigo mentor, a sacerdotisa Brigid; rival, o capitão Torin.  \nFrase atribuída: \"A justiça tem duas faces; eu uso a que ainda não brilhou.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Lugh",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Fantasia Medieval",
+            "Arquétipo": "figura trágica"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Fantasia Medieval, inspirado na figura Lugh, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de figura trágica.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Aedran Solenhal  \nDescrição Física: Alto, cabelos dourados como sol poente, olhos azul‑índigo que brilham em sombras.  \nTraço de personalidade: Orgulhoso e visionário, mas carrega culpa por um erro que trouxe escuridão.  \nClasse Social: Nobre nascido de um clã de artesãos sagrados, agora exilado.  \nObjetivo: Restaurar a Luz da Aurora que foi selada, redimindo seu passado.  \nMedo ou Fraqueza: Temor de que seu próprio poder cause mais destruição; vulnerável a prata enfeitiçada.  \nTraço Físico Marcante: Uma cicatriz em forma de raio que atravessa sua mão esquerda.  \nConflito Atual: Busca o artefato da Aurora enquanto é perseguido pelos caçadores da coroa.  \nPrincipais Relações: Irmã menor, Maela (acólita leal); antigo mentor, Eogan (acusador); a deusa da Luz, Brigid (silenciosa).  \nFrase atribuída: \"Mesmo a chama mais brilhante pode queimar quem a sustenta.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Macha",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Ópera Espacial",
+            "Arquétipo": "aliado temporário"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Ópera Espacial, inspirado na figura Macha, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de aliado temporário.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: **Mara Kynareth**\n\nDescrição Física: Alta, pele bronzeada com tatuagens luminescentes de galgal (cavalos), cabelos prateados presos em trança.\n\nTraço de personalidade: Determinada e protetora, mas cética quanto a alianças duradouras.\n\nClasse Social: Nobre mercenária de um clã estelar de cavaleiros de plasma.\n\nObjetivo: Conquistar a nave‑artefato “Alvorada” para garantir a soberania de seu clã.\n\nMedo ou Fraqueza: Temor de perder o controle sobre seu próprio destino, vulnerável a manipulação mental.\n\nTraço Físico Marcante: Um olho cibernético azul que brilha ao detectar energia sobrenatural.\n\nConflito Atual: Em disputa com um sindicato pirata que deseja o mesmo artefato, enquanto seu clã está à beira da deserção.\n\nPrincipais Relações: Aliança temporária com a tripulação do Capitão Véra; rivalidade com o líder pirata Kael Draven.\n\nFrase atribuída: “A honra não se mede por quem luta ao seu lado, mas por quem ainda permanece quando a batalha termina.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Maeve",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Distopia Futurista",
+            "Arquétipo": "falso aliado"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Distopia Futurista, inspirado na figura Maeve, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de falso aliado.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Aisling Vark  \nDescrição Física: Corpo atlético, implantes cibernéticos azuis nos olhos, capa de fibra de carbono.  \nTraço de personalidade: Carismática e manipuladora, sempre sorrindo enquanto calcula.  \nClasse Social: Elite corporativa, membro da família fundadora da megacorporação Nova Aurora.  \nObjetivo: Infiltrar a resistência para garantir o controle total da rede de energia da cidade.  \nMedo ou Fraqueza: Dependência de um implante neural vulnerável a hacks externos.  \nTraço Físico Marcante: Cicatriz luminosa em forma de trevo que brilha quando está mentindo.  \nConflito Atual: Descobriu um arquivo secreto que pode revelar sua verdadeira lealdade ao corporativo.  \nPrincipais Relações: Mentor corporativo (mentor), líder da resistência (falso aliado), irmã caçula (confidente).  \nFrase atribuída: \"Confie em mim, o futuro depende da nossa aliança.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Manannán Mac Lir",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Terror e Investigação",
+            "Arquétipo": "antagonista"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Terror e Investigação, inspirado na figura Manannán Mac Lir, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de antagonista.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Aodhán Selheir  \nDescrição Física: Alto, pele pálida como névoa marítima, cabelos longos prateados, olhos que brilham como faróis na bruma.  \nTraço de personalidade: Enigmático e calculista, fala em enigmas, raramente demonstra emoção.  \nClasse Social: Nobre decaído, antigo guardião das águas que perdeu seu título.  \nObjetivo: Recuperar o domínio sobre o lago sagrado e mergulhar a vila em um véu de ilusões eternas.  \nMedo ou Fraqueza: A luz do sol puro, que dissipa suas névoas e revela sua verdadeira forma.  \nTraço Físico Marcante: Um anel de coral negro que pulsa com energia oceânica ao redor de seu dedo anular.  \nConflito Atual: Uma expedição de investigadores chegou à aldeia, ameaçando expor seu plano de submersão.  \nPrincipais Relações: O antigo Conselho das Marés, a sacerdotisa do templo abandonado, e o espírito de sua irmã perdida.  \nFrase atribuída: \"Nas profundezas, o silêncio sussurra segredos que a terra jamais ouvirá.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Maponus",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Terror e Investigação",
+            "Arquétipo": "anti-herói"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Terror e Investigação, inspirado na figura Maponus, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de anti-herói.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Aedan Ó Maolcatha  \nDescrição Física: Homem de estatura média, pele pálida como pedra, cabelos longos e negros trançados, olhos de um verde profundo.  \nTraço de personalidade: Pragmaticamente cínico, ajuda apenas quando há ganho pessoal.  \nClasse Social: Artesão de renome, mas marginalizado entre os nobres.  \nObjetivo: Recuperar o antigo martelo de Maponus para restaurar seu poder e reputação.  \nMedo ou Fraqueza: Temor ao fogo que consome sua própria carne, lembrança de um incêndio devastador.  \nTraço Físico Marcante: Uma cicatriz em forma de cruz ao redor da mão esquerda, símbolo de um pacto falhado.  \nConflito Atual: Perseguido por uma seita que deseja o martelo para abrir portais infernais.  \nPrincipais Relações: Ex-companheiro de guilda, irmã desaparecida, um sacerdote corrompido que o manipula.  \nFrase atribuída: \"O preço da verdade costuma ser mais baixo que o da mentira, mas o pagamento nunca chega.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Morrigan",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Ópera Espacial",
+            "Arquétipo": "anti-herói"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Ópera Espacial, inspirado na figura Morrigan, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de anti-herói.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Rhiannon Varkas  \nDescrição Física: Alta, pele pálida com veias luminescentes, cabelos curtos prateados e olhos de âmbar.  \nTraço de personalidade: Calculista e irônica, leal apenas ao seu próprio código.  \nClasse Social: Nobre decadente, ex-comandante de uma frota mercenária.  \nObjetivo: Recuperar o Coração de Éter, artefato que controla rotas de salto interestelar.  \nMedo ou Fraqueza: Perder a identidade ao fundir-se com a consciência da máquina.  \nTraço Físico Marcante: Tatuagem de corvo em chamas no braço direito, que pulsa ao usar poderes.  \nConflito Atual: Perseguida por uma coalizão de templários estelares que desejam o artefato.  \nPrincipais Relações: Antiga aliada Kiera, líder rebelde; irmão Arlen, agora traidor.  \nFrase atribuída: “Mesmo nas sombras do vazio, eu escolho dançar.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Sucellus",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "SteamPunk",
+            "Arquétipo": "anti-herói"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero SteamPunk, inspirado na figura Sucellus, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de anti-herói.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Bram Cinderforge  \nDescrição Física: Homem alto, barba trançada de cobre, veste um colete de latão com engrenagens pulsantes.  \nTraço de personalidade: Pragmaticamente cínico, ajuda apenas quando o lucro lhe interessa.  \nClasse Social: Mercador de artefatos obscuros, pertencente à classe média-alta industrial.  \nObjetivo: Conquistar o controle da fonte de vapor que alimenta o antigo altar de Sucellus.  \nMedo ou Fraqueza: Temor de perder sua própria humanidade ao se fundir com máquinas.  \nTraço Físico Marcante: Um grande martelo de pistão encimado por um cálice de ferro, sempre ao seu lado.  \nConflito Atual: Persegue um mapa que leva ao lendário \"Cálice de Névoa\", mas é caçado pela Guilda dos Engenheiros.  \nPrincipais Relações: Rivalidade com a Engenheira Selene Voss; aliança incerta com o contrabandista Grel.  \nFrase atribuída: “O vapor não tem moral; ele só segue quem o controla.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Tan Hill",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Terror e Investigação",
+            "Arquétipo": "antagonista"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Terror e Investigação, inspirado na figura Tan Hill, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de antagonista.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Eoghan MacRhun  \nDescrição Física: Homem alto, pele pálida como pedra, cabelos longos e grisalhos, olhos de âmbar que brilham à noite.  \nTraço de personalidade: Calculista e imperturbável, vê os vivos como peças de um tabuleiro antigo.  \nClasse Social: Nobre decadente, descendente de um antigo clã druida caído em desgraça.  \nObjetivo: Recuperar o Coração de Tan Hill para abrir um portal que liberte os antigos espíritos da colina.  \nMedo ou Fraqueza: A luz do sol direto, que enfraquece seu vínculo com o mundo dos mortos.  \nTraço Físico Marcante: Uma cicatriz em forma de trevo que atravessa o peito, cintilando quando ele conjura.  \nConflito Atual: Uma comunidade de aldeões está prestes a descobrir seu ritual e precisa ser contida.  \nPrincipais Relações: Aliança relutante com a bruxa da floresta; inimigo jurado do guardião da cripta local.  \nFrase atribuída: “O sangue dos antigos ainda corre nas veias da terra; basta eu abrir a fenda para que ele volte.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Taranis",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Distopia Futurista",
+            "Arquétipo": "anti-herói"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Distopia Futurista, inspirado na figura Taranis, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de anti-herói.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Aidan Stormrune  \nDescrição Física: Alto, cabelos negros como carvão, cicatriz luminosa no braço direito.  \nTraço de personalidade: Cínico, mas guiado por um código de honra próprio.  \nClasse Social: Ex-membro da elite de engenheiros, agora foragido.  \nObjetivo: Derrubar o Conselho de Energia que controla a tempestade elétrica da cidade.  \nMedo ou Fraqueza: Paralisia ao ouvir trovões que lhe lembram seu passado.  \nTraço Físico Marcante: Olhos que brilham azul elétrico quando sente a energia.  \nConflito Atual: Perseguido pelos Caçadores de Tempestade enquanto tenta infiltrar a central de energia.  \nPrincipais Relações: Irmã desaparecida, líder rebelde Nerys, antigo mentor, agora antagonista.  \nFrase atribuída: \"A tempestade não escolhe quem destruir, mas eu escolho quem salvar.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Teutates",
+            "Mitologia Origem": "Celta",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Ópera Espacial",
+            "Arquétipo": "mentor"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Ópera Espacial, inspirado na figura Teutates, da mitologia Celta. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de mentor.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Caelion Varrik  \nDescrição Física: Alto, cabelos prateados em ondas, olhos que refletem nebulosas distantes.  \nTraço de personalidade: Enigmático e paciente, fala em enigmas que revelam verdades ocultas.  \nClasse Social: Exilado da Alta Clero da Aliança Astral, agora errante.  \nObjetivo: Orientar a nova geração na redescoberta dos Portais Estelares ancestrais.  \nMedo ou Fraqueza: Temor de que o Vácuo apague suas memórias e conhecimentos.  \nTraço Físico Marcante: Triskele luminoso tatuado no antebraço esquerdo, pulsando em ritmo cósmico.  \nConflito Atual: Enfrenta um IA rebelde que tenta destruir todas as relíquias mitológicas.  \nPrincipais Relações: Mentor do Capitão Lira, rival do Núcleo da IA, aliado da Ordem da Lua.  \nFrase atribuída: “Nos caminhos das estrelas, o passado é a bússola que nos salva.”"
+    }
+]
