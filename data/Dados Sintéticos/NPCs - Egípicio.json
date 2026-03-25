@@ -1,0 +1,254 @@
+[
+    {
+        "input": {
+            "Figura Inspiradora": "Amon",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Terror e Investigação",
+            "Arquétipo": "falso aliado"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Terror e Investigação, inspirado na figura Amon, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de falso aliado.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Amonet Khasekhem  \nDescrição Física: Homem de estatura média, pele bronzeada, olhos cinza-azulados; vestes de linho escuro com símbolos ankh.  \nTraço de personalidade: Carismático e persuasivo, mas sempre calculista e oculto.  \nClasse Social: Mercador de artefatos arqueológicos de alto escalão, conectado a colecionadores ricos.  \nObjetivo: Conduzir os investigadores ao templo perdido para obter um artefato que ele pode vender ao culto.  \nMedo ou Fraqueza: Vulnerável à luz solar intensa; sua maldição o faz sangrar ao tocar água sagrada.  \nTraço Físico Marcante: Uma cicatriz em forma de escaravelho que atravessa seu pulso direito.  \nConflito Atual: Persegue um pergaminho que revela a localização da Câmara de Amon, enquanto um rival tenta impedir sua descoberta.  \nPrincipais Relações: Aliança tensa com o sacerdote Nefru; rivalidade com a arqueóloga Selene Voss; contato secreto com o culto da Serpente.  \nFrase atribuída: \"Confie em mim; o que eu ofereço pode salvar todas as almas perdidas.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Anúbis",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Distopia Futurista",
+            "Arquétipo": "figura trágica"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Distopia Futurista, inspirado na figura Anúbis, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de figura trágica.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Nefri Ankhara  \nDescrição Física: Alto, pele pálida com veias azuladas, olhos vazios como sarcófagos iluminados por neon.  \nTraço de personalidade: Melancólico, contempla a morte como liberação.  \nClasse Social: Exilado da casta dos Tecelões de Memória, agora um renegado nas sombras.  \nObjetivo: Recuperar o Coração de Osíris, um artefato que promete reverter o caos da cidade.  \nMedo ou Fraqueza: Paralisia ao ouvir o som de sirenes, lembrança de sua própria execução.  \nTraço Físico Marcante: Uma cicatriz em forma de chacra que percorre todo o braço esquerdo.  \nConflito Atual: Perseguido por drones governamentais enquanto tenta infiltrar a Fortaleza de Dados.  \nPrincipais Relações: Irmã perdida, Lira; mentor caído, Hekhet; líder da resistência, Kha.  \nFrase atribuída: \"Até os deuses caem quando o futuro esquece seu próprio nome.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Atum",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Distopia Futurista",
+            "Arquétipo": "antagonista"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Distopia Futurista, inspirado na figura Atum, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de antagonista.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Aton Kheprion  \nDescrição Física: Alto, pele pálida com veios luminescentes, olhos de cobre que brilham ao escuro.  \nTraço de personalidade: Calculista e implacável, vê a humanidade como peças descartáveis.  \nClasse Social: Elite governamental, líder do Conselho da Aurora.  \nObjetivo: Consolidar o controle total sobre a energia solar e eliminar qualquer dissidência.  \nMedo ou Fraqueza: Falha nos núcleos de energia que alimentam seu implante central.  \nTraço Físico Marcante: Uma cicatriz em forma de raio que atravessa seu braço direito, coberta por tatuagens de circuitos.  \nConflito Atual: Rebeliões subterrâneas ameaçam invadir a Torre Solar, seu bastião.  \nPrincipais Relações: Mentor do General Varek, rival do engenheiro rebelde Nefri; adora seu assistente androide Lumen.  \nFrase atribuída: \"O futuro nasce no brilho que eu comando; quem ousa apagá‑lo será consumido pela escuridão.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Bastet",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Distopia Futurista",
+            "Arquétipo": "antagonista"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Distopia Futurista, inspirado na figura Bastet, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de antagonista.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Selene Nefert  \nDescrição Física: Altura média, pele pálida com tatuagens neon de hieróglifos, olhos amarelos cintilantes.  \nTraço de personalidade: Calculista, fria, mas com charme felino que manipula aliados.  \nClasse Social: Elite corporativa, líder da divisão de segurança da megacorporação “Bastion”.  \nObjetivo: Controlar o fluxo de recursos de energia bio‑tecnológica para manter o poder absoluto.  \nMedo ou Fraqueza: Sensibilidade ao som de cantos antigos, eco de cânticos religiosos que a desorientam.  \nTraço Físico Marcante: Implantes de orelhas cibernéticas em forma de felinos que emitem um brilho azul.  \nConflito Atual: Rebeliões de hackers tentam invadir seu núcleo de controle; ela planeja um cerco total.  \nPrincipais Relações: Seu braço direito, o assassino “Mau”; o líder da resistência “Khepri”; o CEO “Amon”.  \nFrase atribuída: “O mundo me obedece como um gato à sua própria sombra.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Geb",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Terror e Investigação",
+            "Arquétipo": "antagonista"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Terror e Investigação, inspirado na figura Geb, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de antagonista.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Ankh-Seti Nefert\n\nDescrição Física: Alto, magro, pele pálida como pedra; veste túnicas de linho escurecidas por manchas de terra.\n\nTraço de personalidade: Calculista e imperturbável, vê a vida humana como meros sacrifícios ao seu senhor.\n\nClasse Social: Nobre decadente, antigo sacerdote da família Geb, agora exilado das cortes reais.\n\nObjetivo: Reconstruir o antigo altar de Geb para abrir um portal que traga a terra viva ao mundo dos vivos.\n\nMedo ou Fraqueza: O som de água corrente, que dissolve a ligação entre o mundo dos mortos e o dos vivos.\n\nTraço Físico Marcante: Uma cicatriz em forma de serpente que atravessa o peito, brilhando levemente à luz da lua.\n\nConflito Atual: Os investigadores descobriram o local do ritual e planejam impedir a abertura do portal.\n\nPrincipais Relações: Seu aprendiz desaparecido, um guardião da tumba rival e o espírito de sua esposa, aprisionado nas paredes da cripta.\n\nFrase atribuída: “A terra clama por seu senhor; deixem que ela se erga, mesmo que o céu desabe.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Hathor",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Fantasia Medieval",
+            "Arquétipo": "aliado temporário"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Fantasia Medieval, inspirado na figura Hathor, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de aliado temporário.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Selene Althara  \nDescrição Física: Alta e curvilínea, pele bronzeada com manchas douradas, veste túnicas de linho branco com detalhes de ouro.  \nTraço de personalidade: Carinhosa e diplomática, mas impõe sua vontade com firmeza quando necessário.  \nClasse Social: Nobre de um clã mercante que controla rotas de caravanas sagradas.  \nObjetivo: Restaurar o Templo da Lua, onde seu povo venerava a deusa da música e da fertilidade.  \nMedo ou Fraqueza: Temida perda de sua voz, que considera sua fonte de poder e influência.  \nTraço Físico Marcante: Um par de chifres delicados de ouro que brotam de sua cabeça, lembrando a coroa da deusa.  \nConflito Atual: Enfrenta um grupo de saqueadores que planeja profanar o templo para obter artefatos sagrados.  \nPrincipais Relações: Aliada do mago itinerante Lyrion, rival do capitão mercenário Darek, protetora da jovem aprendiz Nysa.  \nFrase atribuída: “A música do coração pode acalmar até as sombras mais sombrias.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Horus",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Velho Oeste",
+            "Arquétipo": "aliado temporário"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Velho Oeste, inspirado na figura Horus, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de aliado temporário.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Cassian Horusson  \nDescrição Física: Alto, pele bronzeada, chapéu de aba larga com pluma de falcão; olhos cinzentos intensos.  \nTraço de personalidade: Honrado e implacável na justiça, mas guarda segredos ancestrais.  \nClasse Social: Mercador de artefatos exóticos, conhecido nas rotas de comércio fronteiriço.  \nObjetivo: Recuperar um antigo amuleto que acredita ser a chave de um poder perdido.  \nMedo ou Fraqueza: Temor de ser traído por quem confia; vulnerável a venenos de escorpião.  \nTraço Físico Marcante: Uma cicatriz em forma de asa de falcão que atravessa a bochecha direita.  \nConflito Atual: Perseguido por um bando de fora-da-lei que deseja o amuleto para dominar a região.  \nPrincipais Relações: Aliança tênue com a xerife Mara Delgado; rivalidade com o pistoleiro Silas \"O Corvo\".  \nFrase atribuída: \"O céu observa, e quem voa alto não teme a poeira do deserto.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Maat",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Terror e Investigação",
+            "Arquétipo": "mentor"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Terror e Investigação, inspirado na figura Maat, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de mentor.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Ankh-Seti Khonsu  \nDescrição Física: Homem alto, pele bronzeada, vestes de linho branco com símbolos de balança dourada; olhos de cor âmbar que parecem pesar a alma.  \nTraço de personalidade: Imparcial e sereno, fala com calma, mas guarda segredos sombrios sobre o equilíbrio entre vida e morte.  \nClasse Social: Alta classe sacerdotal, conselheiro do Templo de Maat, respeitado entre a elite.  \nObjetivo: Guiar os investigadores na busca da verdade, preservando o equilíbrio cósmico e impedindo que o caos se espalhe.  \nMedo ou Fraqueza: Temor de que sua própria justiça seja corrompida por mentiras, vulnerável à manipulação de ilusões mentais.  \nTraço Físico Marcante: Um colar de ouro com a balança de Maat pendendo sobre o peito, sempre reluzente.  \nConflito Atual: Descobriu que um culto profano está usando um artefato antigo para distorcer a balança da verdade, e precisa da ajuda dos investigadores.  \nPrincipais Relações: Aliança com a Alta Sacerdotisa Nefertari, rivalidade velada com o necromante Khepri; protege um aprendiz chamado Selim.  \nFrase atribuída: \"A verdade pesa mais que a própria sombra; caminhe comigo e descubra seu peso.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Mut",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "SteamPunk",
+            "Arquétipo": "falso aliado"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero SteamPunk, inspirado na figura Mut, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de falso aliado.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Ezekiel Cogsworth  \nDescrição Física: Homem de 38 anos, pele bronzeada, olhos âmbar com lentes de cobre; veste um colete de latão e um chapéu de cilindro com penas.  \nTraço de personalidade: Carismático e persuasivo, mas sempre calcula vantagens.  \nClasse Social: Burguesia industrial, proprietário de uma oficina de autômatos.  \nObjetivo: Conquistar o controle dos reatores a vapor da cidade para expandir seu império.  \nMedo ou Fraqueza: Tem pavor de falhar perante sua mãe, que o abandonou; vulnerável a choques elétricos.  \nTraço Físico Marcante: Um braço cibernético de bronze, com engrenagens visíveis que giram ao mover.  \nConflito Atual: Está negociando com os jogadores para obter acesso ao Templo da Fumaça, mas planeja traí‑los.  \nPrincipais Relações: Mentor, o engenheiro Voss; irmã mecânica, Lira; culto secreto que o venera como “O Filho do Céu”.  \nFrase atribuída: “Confie em mim, e o céu será apenas o começo.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Nun",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Fantasia Medieval",
+            "Arquétipo": "mentor"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Fantasia Medieval, inspirado na figura Nun, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de mentor.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Amunet Sa'ir  \nDescrição Física: Alta, pele bronzeada, olhos como ônix, veste mantos de linho dourado.  \nTraço de personalidade: Sábio e paciente, porém enigmático nos conselhos.  \nClasse Social: Nobreza erudita, guardião de antigos templos.  \nObjetivo: Preservar o conhecimento antigo e guiar o herói rumo ao equilíbrio.  \nMedo ou Fraqueza: Temor de que o caos libere o deus primordial Nun.  \nTraço Físico Marcante: Cicatriz em forma de lua crescente no braço direito.  \nConflito Atual: Enfrenta uma seita que busca despertar Nun, o caos primordial.  \nPrincipais Relações: Mentor do protagonista, aliado do Conselho dos Sábios, inimigo da Seita Sombras do Nilo.  \nFrase atribuída: \"O passado é a lâmpada que ilumina o futuro.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Nut",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Ópera Espacial",
+            "Arquétipo": "anti-herói"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Ópera Espacial, inspirado na figura Nut, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de anti-herói.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Amon Khepri  \nDescrição Física: Alto, pele bronzeada com tatuagens de estrelas, olhos de âmbar que brilham no escuro.  \nTraço de personalidade: Cínico, porém tem um código de honra próprio.  \nClasse Social: Mercenário de alto escalão, ex-oficial da frota estelar.  \nObjetivo: Recuperar o artefato “Coração de Nut” para impedir que caia nas mãos da corporação Helios.  \nMedo ou Fraqueza: Temor de perder sua humanidade ao fundir-se com a energia estelar.  \nTraço Físico Marcante: Uma asa de energia luminosa que emana de seu ombro direito.  \nConflito Atual: Perseguido por caçadores de recompensas enquanto tenta decifrar a localização do artefato.  \nPrincipais Relações: Ex-companheira Lyra Voss, rival capitão Drax, aliado IA “Seth”.  \nFrase atribuída: “Entre a luz das estrelas e a sombra da eternidade, eu escolho caminhar no meio.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Néftis",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Distopia Futurista",
+            "Arquétipo": "mentor"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Distopia Futurista, inspirado na figura Néftis, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de mentor.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Khaet Renek  \nDescrição Física: Cabelos negros em tranças luminescentes, pele pálida com tatuagens de hieróglifos azuis que pulsão levemente.  \nTraço de personalidade: Enigmático e calculista, mas demonstra profunda empatia pelos marginalizados.  \nClasse Social: Elite tecnológica, ex‑executiva das corporações de biociência.  \nObjetivo: Revelar a verdade sobre o Projeto Néftis e libertar a consciência coletiva da população.  \nMedo ou Fraqueza: Temor de perder o controle da própria memória, que foi fragmentada por implantes.  \nTraço Físico Marcante: Um olho cibernético dourado que emite um brilho frio ao analisar dados.  \nConflito Atual: Perseguida por agentes da Corporação Anúbis que desejam silenciar seu conhecimento.  \nPrincipais Relações: Mentor de Lira Vale, aliada da resistência subterrânea, rival de Arkan, diretor da segurança corporativa.  \nFrase atribuída: \"Na sombra da cidade, os segredos nascem; cabe a nós trazê‑los à luz.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Osíris",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Distopia Futurista",
+            "Arquétipo": "mentor"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Distopia Futurista, inspirado na figura Osíris, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de mentor.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Ankh-Ra Selene  \nDescrição Física: Alto, pele pálida com veias luminescentes, cabelos curtos prateados.  \nTraço de personalidade: Calmamente enigmático, fala em paradoxos que revelam verdades.  \nClasse Social: Elite dos Arquivistas da Cúpula, detentor de conhecimento proibido.  \nObjetivo: Reconstruir a memória coletiva da humanidade antes da aniquilação digital.  \nMedo ou Fraqueza: Temor de que sua própria consciência seja apagada por um vírus de esquecimento.  \nTraço Físico Marcante: Um terceiro olho cibernético que projeta hologramas de hieróglifos.  \nConflito Atual: Confronto com o Conselho de Controle que deseja suprimir suas revelações.  \nPrincipais Relações: Aluno prodígio Kael, rival político Darius Khet, IA guardiã Nefra.  \nFrase atribuída: “A morte é apenas o fim de um código; renasça no próximo script.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Rá",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "SteamPunk",
+            "Arquétipo": "anti-herói"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero SteamPunk, inspirado na figura Rá, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de anti-herói.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Rael Sunforge  \nDescrição Física: Alto, pele bronzeada, olhos de cobre incandescente; veste um sobretudo de couro reforçado com placas de latão e óculos de aumento com lentes de âmbar.  \nTraço de personalidade: Carismático e arrogante, mas guiado por um código moral próprio que desafia autoridades.  \nClasse Social: Mercador de artefatos arcanotécnicos, atuando nos mercados negros das cidades industriais.  \nObjetivo: Recuperar o Núcleo Solar Perdido para restaurar sua reputação e dominar o comércio de energia.  \nMedo ou Fraqueza: Temor de ser aprisionado nas masmorras de vapor da Guilda dos Engenheiros.  \nTraço Físico Marcante: Uma cicatriz em forma de raio que atravessa seu braço direito, deixada por um experimento falho.  \nConflito Atual: Está em guerra com a Corporação Helios, que controla a maior parte da energia de vapor da região.  \nPrincipais Relações: Aliança tensa com a pirata aérea Selene Voss; rivalidade mortal com o inspetor de guilda, Magnus Ironclad.  \nFrase atribuída: \"O sol pode queimar, mas eu forjo minha própria luz nas sombras do aço.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Sekhmet",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Terror e Investigação",
+            "Arquétipo": "antagonista"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Terror e Investigação, inspirado na figura Sekhmet, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de antagonista.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Nefertah Al‑Ma'at  \nDescrição Física: Alta, pele de bronze escura, olhos âmbar incandescentes; veste túnicas negras com símbolos de leão. Cabelos curtos, trançados em ouro.  \nTraço de personalidade: Impiedosa, calculista, vê a caça como rito sagrado; sente prazer ao sofrimento alheio.  \nClasse Social: Alta sacerdotisa da ordem oculta, descendente de uma linhagem real.  \nObjetivo: Despertar a fúria de Sekhmet para purgar a cidade de corrupção, sacrificando inocentes.  \nMedo ou Fraqueza: Temor de ser aprisionada em um sarcófago eterno; vulnerável a água sagrada.  \nTraço Físico Marcante: Uma cicatriz em forma de garra de leão na bochecha esquerda, brilhando à luz da lua.  \nConflito Atual: Confronta um grupo de investigadores que descobriram seu ritual; precisa impedir que interrompam o sacrifício final.  \nPrincipais Relações: Seu mestre, o Arcanista Horem; sua rival, a curandeira Iset; os servos fanáticos da seita.  \nFrase atribuída: \"O fogo da justiça arde sobre os culpados; quem não se curva será consumido.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Seth",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Velho Oeste",
+            "Arquétipo": "falso aliado"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Velho Oeste, inspirado na figura Seth, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de falso aliado.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Jethro Sutekh  \nDescrição Física: Alto, pele bronzeada, cicatriz em forma de raio no rosto, chapéu de aba larga.  \nTraço de personalidade: Carismático e persuasivo, mas muda de lealdade como o vento do deserto.  \nClasse Social: Mercador ambulante com conexões nas gangues das rotas de areia.  \nObjetivo: Dominar as rotas de caravanas para alimentar seu culto ao caos.  \nMedo ou Fraqueza: O som de tambores sagrados que evocam os rituais de Seth.  \nTraço Físico Marcante: Olhos amarelos como areia incandescente que brilham sob o sol.  \nConflito Atual: Negocia com o xerife enquanto planeja atacar um acampamento rival.  \nPrincipais Relações: Xerife Whitman (aliado aparente), Dona Mara (sócia), Xamã Nefert (mentor oculto).  \nFrase atribuída: \"Confie em mim, pois até a tempestade tem seu caminho.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Shu",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Fantasia Medieval",
+            "Arquétipo": "falso aliado"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Fantasia Medieval, inspirado na figura Shu, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de falso aliado.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Selkhan Aris  \nDescrição Física: Alto, magro, pele bronzeada; túnica azul com bordados dourados; olhos cor de areia.  \nTraço de personalidade: Carismático e persuasivo, mas calculista; finge lealdade.  \nClasse Social: Mercador de artefatos raros, membro da Guilda dos Navegantes.  \nObjetivo: Conquistar a confiança do grupo para obter um artefato antigo que controla o vento.  \nMedo ou Fraqueza: Pavor de ser descoberto; vulnerável a magia de luz que revela ilusões.  \nTraço Físico Marcante: Cicatriz em forma de flecha na bochecha esquerda, que brilha levemente ao toque.  \nConflito Atual: Caçado por caçadores de tesouros que sabem de sua traição.  \nPrincipais Relações: Aliança tensa com a líder da guilda; rivalidade com um sacerdote do templo de Ra.  \nFrase atribuída: \"A confiança é um vento que só eu sei como direcionar.\""
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Tefnut",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "SteamPunk",
+            "Arquétipo": "aliado temporário"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero SteamPunk, inspirado na figura Tefnut, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de aliado temporário.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Nefrius Vaporis  \nDescrição Física: Alto, pele bronzeada, olhos azul-celeste, trajes de cobre com tubos de vapor.  \nTraço de personalidade: Calmo, observador, busca equilíbrio entre ar e água.  \nClasse Social: Mercador de máquinas climáticas, classe média‑alta.  \nObjetivo: Recuperar o Núcleo de Neblina para restaurar as chuvas nas regiões desertas.  \nMedo ou Fraqueza: Pavor ao fogo descontrolado que pode evaporar sua essência.  \nTraço Físico Marcante: Asas mecânicas de prata que exalam vapor continuamente.  \nConflito Atual: Persegue um grupo de ladrões que roubaram seu protótipo de condensador.  \nPrincipais Relações: Aliança temporária com o grupo aventureiro; rivalidade com o Barão Ignis.  \nFrase atribuída: “Onde há névoa, nasce a verdade.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Thoth",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Fantasia Medieval",
+            "Arquétipo": "figura trágica"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Fantasia Medieval, inspirado na figura Thoth, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de figura trágica.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Selkheir Nymor  \nDescrição Física: Alto e magro, pele pálida como pedra, vestes de linho azul escuro bordadas com símbolos arcanos.  \nTraço de personalidade: Calmamente erudito, fala como quem recita pergaminhos antigos.  \nClasse Social: Nobre erudito, guardião da Grande Biblioteca de Arkanis.  \nObjetivo: Recuperar o “Rolo de Inversão”, que pode reescrever a própria história.  \nMedo ou Fraqueza: Perder a memória e ser condenado ao esquecimento eterno.  \nTraço Físico Marcante: Um terceiro olho brilhante na testa, oculto sob uma faixa dourada.  \nConflito Atual: Acusado de traição, é caçado pelos próprios guardiões enquanto tenta desvendar o complô.  \nPrincipais Relações: Seu aprendiz Leora (leal), a rainha Mirath (desconfiada), o irmão exilado Darn (inimigo).  \nFrase atribuída: “O destino é apenas uma palavra escrita em areia; basta saber onde a maré o revela.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Wadjet",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Velho Oeste",
+            "Arquétipo": "antagonista"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Velho Oeste, inspirado na figura Wadjet, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de antagonista.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Ankhara Sable  \nDescrição Física: Alto, pele bronzeada, chapéu de aba larga com plumas pretas, olhos de âmbar cintilante.  \nTraço de personalidade: Calculista e implacável, nunca mostra vulnerabilidade.  \nClasse Social: Barão das minas de ouro e dono de um rancho fortificado.  \nObjetivo: Controlar todo o território do Vale das Serpentes, eliminando rivais e saqueadores.  \nMedo ou Fraqueza: O som de serpentes sibilantes traz-lhe lembranças de um antigo ritual.  \nTraço Físico Marcante: Um colar de escaravelhos de ouro que emite um brilho hipnótico.  \nConflito Atual: Enfrenta o xerife da cidade, que descobriu seu pacto com espíritos egípcios.  \nPrincipais Relações: Aliança tensa com o contrabandista Kade “O Cobra”, inimiga jurada da curandeira Maeve.  \nFrase atribuída: “O deserto guarda segredos, mas eu guardo o poder que ele tem medo de revelar.”"
+    },
+    {
+        "input": {
+            "Figura Inspiradora": "Ísis",
+            "Mitologia Origem": "Egípcia",
+            "Modelo": "openai/gpt-oss-120b",
+            "Temperatura": "0.9",
+            "Gênero": "Terror e Investigação",
+            "Arquétipo": "anti-herói"
+        },
+        "Prompt Gerador": "Gere uma ficha de NPC para RPG de mesa do gênero Terror e Investigação, inspirado na figura Ísis, da mitologia Egípcia. \n    O personagem deve ter nome e sobrenome originais, e deve ocupar o papel narrativo de anti-herói.\n    Responda exatamente no formato abaixo. Cada campo deve ter no máximo três linhas.\n    Nome: \n    Descrição Física: \n    Traço de personalidade: \n    Classe Social: \n    Objetivo: \n    Medo ou Fraqueza: \n    Traço Físico Marcante: \n    Conflito Atual: \n    Principais Relações: \n    Frase atribuída:\"\n    ",
+        "Personagem Gerado": "Nome: Nefri‑Isis Al‑Hathor  \n\nDescrição Física: Alta e esguia, pele de tonalidade bronzeada, olhos âmbar que brilham no escuro. Veste um manto negro adornado com hieróglifos prateados.  \n\nTraço de personalidade: Cálculo frio, mas guiada por um código de honra distorcido que a coloca contra o bem‑e‑mal convencional.  \n\nClasse Social: Nobre decadente, descendente de um clã de sacerdotisas caído em desgraça.  \n\nObjetivo: Recuperar o *Livro das Sombras* para impedir que forças cósmicas destruam o véu entre os mundos.  \n\nMedo ou Fraqueza: O som de tambores funerários, que evoca lembranças de um sacrifício que falhou.  \n\nTraço Físico Marcante: Uma cicatriz em forma de serpente que serpenteia do pescoço ao ombro direito.  \n\nConflito Atual: Perseguida por uma seita rival que deseja usar o livro para abrir um portal para Anúbis.  \n\nPrincipais Relações: Seu antigo mentor, agora traidor; a irmã menor, que ainda acredita em sua redenção; um detetive cético que a ajuda nas investigações.  \n\nFrase atribuída: “A justiça é um véu fino; eu o rasgo para revelar a verdade que ninguém ousa encarar.”"
+    }
+]

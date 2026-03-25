@@ -5,8 +5,6 @@
 ![Json](https://img.shields.io/badge/Json-Armazenamento-blue?logo=json&logoColor=white)
 ![License](https://img.shields.io/badge/License-CC_By--Sa-red?logo=creativecommons&logoColor=white)
 
-
-
 Repositório criado para **registrar o processo de construção** e **armazenar um dataset de treino para uma LLM** que tem como objetivo a geração procedural de **NPCS para campanhas de RPG de mesa**.
 
 ***
